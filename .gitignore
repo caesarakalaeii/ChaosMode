@@ -3,3 +3,8 @@
 /obj
 /bin
 /Folder.DotSettings.user
+/.direnv
+/result
+/result-*
+appsettings.json
+log4net.config
